@@ -1,1 +1,1 @@
-FROM prom/prometheus:v2.31.1
+FROM jimmidyson/configmap-reload:v0.5.0
