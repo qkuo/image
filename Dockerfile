@@ -1,1 +1,1 @@
-FROM docker.io/istio/pilot:1.13.0
+FROM docker.io/istio/proxyv2:1.13.0
