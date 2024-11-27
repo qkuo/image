@@ -1,1 +1,1 @@
-FROM docker.io/istio/proxyv2:1.13.0
+FROM docker.io/jaegertracing/all-in-one:1.29
