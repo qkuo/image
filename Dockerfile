@@ -1,1 +1,1 @@
-FROM docker.io/jaegertracing/all-in-one:1.29
+FROM prom/prometheus:v2.31.1
