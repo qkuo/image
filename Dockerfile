@@ -1,1 +1,2 @@
-FROM grafana/grafana:8.3.1
+FROM php:8.3.14
+
