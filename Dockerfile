@@ -1,2 +1,2 @@
-FROM bitnami/jenkins:2.479.2-debian-12-r0
+FROM bitnami/jenkins:2.462.3-debian-12-r3
 
