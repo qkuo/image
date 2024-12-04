@@ -1,3 +1,3 @@
-FROM jenkins/inbound-agent:latest-jdk21
+FROM redis:6.2.16
 
 
