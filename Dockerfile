@@ -1,3 +1,3 @@
-FROM redis:6.2.16
+FROM maven:3.6.3
 
 
