@@ -1,3 +1,3 @@
-FROM maven:3.6.3-openjdk-8
+FROM registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 
