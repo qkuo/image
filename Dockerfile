@@ -1,1 +1,1 @@
-FROM quay.io/ceph/ceph:v18.2.4
+FROM quay.io/cephcsi/cephcsi:v3.12.3
