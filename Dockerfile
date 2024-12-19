@@ -1,3 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-attacher:v4.6.1
-
-
+FROM quay.io/ceph/ceph:v18.2.4
