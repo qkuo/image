@@ -1,2 +1,2 @@
-FROM nginx:1.26.2
+FROM redis:6.2.16
 
