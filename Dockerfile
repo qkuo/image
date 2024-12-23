@@ -1,1 +1,2 @@
-FROM quay.io/cephcsi/cephcsi:v3.12.3
+FROM nginx:1.26.2
+
