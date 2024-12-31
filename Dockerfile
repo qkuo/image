@@ -1,1 +1,1 @@
-FROM  questdb/questdb:6.0.4
+FROM  swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v3
