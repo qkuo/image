@@ -1,2 +1,2 @@
-FROM nginx:1.26.2@sha256:1a476ecee5324eaa2f5d8d46b8416293bc52b8b9306378e44a912508ee13b75e
+FROM eipwork/kuboard-agent:v3
 
