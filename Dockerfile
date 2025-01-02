@@ -1,1 +1,1 @@
-FROM  swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v3
+FROM  adoptopenjdk/openjdk8:jdk8u432-b06
