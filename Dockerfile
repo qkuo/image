@@ -1,1 +1,1 @@
-FROM  adoptopenjdk/openjdk8:jdk8u432-b06
+FROM  bitnami/elasticsearch:7.17.26
