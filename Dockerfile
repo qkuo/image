@@ -1,1 +1,1 @@
-FROM  rook/ceph:v1.14.12
+FROM  registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.1
