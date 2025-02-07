@@ -1,1 +1,1 @@
-FROM  bitnami/elasticsearch:7.17.26
+FROM  rook/ceph:v1.14.12
