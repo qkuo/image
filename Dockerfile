@@ -1,1 +1,1 @@
-FROM node:14.21.3
+FROM registry.k8s.io/ingress-nginx/controller:v1.11.3
