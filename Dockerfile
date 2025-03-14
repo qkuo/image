@@ -1,1 +1,1 @@
-FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+FROM quay.io/prometheus/prometheus:v2.54.1
