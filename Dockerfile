@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/blackbox-exporter:v0.24.0
+FROM quay.io/brancz/kube-rbac-proxy:v0.14.2
