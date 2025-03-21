@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/node-exporter:v1.2.2
+FROM k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.0
