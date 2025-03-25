@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/node-exporter:v1.1.2
+FROM directxman12/k8s-prometheus-adapter:v0.8.4
