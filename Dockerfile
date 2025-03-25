@@ -1,1 +1,1 @@
-FROM directxman12/k8s-prometheus-adapter:v0.8.4
+FROM quay.io/prometheus/prometheus:v2.26.0
