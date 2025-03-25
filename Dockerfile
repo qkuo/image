@@ -1,1 +1,1 @@
-FROM bitnami/dotnet:3.1.31
+FROM quay.io/prometheus-operator/prometheus-config-reloader:v0.47.0
