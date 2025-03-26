@@ -1,1 +1,1 @@
-FROM quay.io/prometheus-operator/prometheus-config-reloader:v0.49.0
+FROM grafana/grafana:9.3.16
