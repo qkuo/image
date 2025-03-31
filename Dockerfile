@@ -1,1 +1,1 @@
-FROM m.daocloud.io/docker.io/kube-controllers:v3.26.1
+FROM m.daocloud.io/docker.io/calico/kube-controllers:v3.26.1
