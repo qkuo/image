@@ -1,1 +1,1 @@
-FROM timonwong/prometheus-webhook-dingtalk:v2.1.0
+FROM registry.k8s.io/pause:3.7
