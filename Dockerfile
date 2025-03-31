@@ -1,1 +1,1 @@
-FROM registry.k8s.io/pause:3.7
+FROM m.daocloud.io/docker.io/kube-controllers:v3.26.1
