@@ -1,1 +1,1 @@
-FROM m.daocloud.io/docker.io/calico/node:v3.26.1
+FROM tomcat:9.0.104-jdk8
